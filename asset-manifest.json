@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/bred/static/css/main.fcd0d86d.css",
+    "main.js": "/bred/static/js/main.45009a00.js",
+    "index.html": "/bred/index.html",
+    "main.fcd0d86d.css.map": "/bred/static/css/main.fcd0d86d.css.map",
+    "main.45009a00.js.map": "/bred/static/js/main.45009a00.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fcd0d86d.css",
+    "static/js/main.45009a00.js"
+  ]
+}
